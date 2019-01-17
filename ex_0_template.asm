@@ -1,5 +1,5 @@
 ;*************************************************************************
-; Example: x_xx
+; Example: x-xx
 ; Page:  / PDF Page:
 ; Chapter:
 ; KEYWORD:
